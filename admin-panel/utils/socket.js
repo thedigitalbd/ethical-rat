@@ -1,3 +1,3 @@
 import io from "socket.io-client";
-const socket = io("ethical-rat.vercel.app");
+const socket = io("https://ethical-rat.onrender.com");
 export default socket;
